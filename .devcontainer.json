@@ -1,0 +1,7 @@
+{
+  "extensions": [
+    "ms-vscode.cpptools",
+    "ms-python.python",
+    "ms-python.vscode-pylance"
+  ]
+}
